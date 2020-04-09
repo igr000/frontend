@@ -1,0 +1,15 @@
+#front-end-carousel{
+	min-height: 500px;
+}
+body{
+	zoom:0.85;
+}
+.parallax img{
+	width: 1080px;
+}
+.testimonials{
+	margin-top: 100px;
+}
+#front-end-footer{
+	margin-top: 200px;i
+}
